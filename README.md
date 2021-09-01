@@ -47,7 +47,7 @@ print (new_message) # Future full-stack devenloper !<br>
    <div>
   <a href="https://github.com/Mafehudinik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeireCeschim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeireCeschimk&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeireCeschim&layout=compact&langs_count=7&theme=dark"/>
 </div>
      
  
@@ -55,7 +55,7 @@ print (new_message) # Future full-stack devenloper !<br>
    
 <div align="center">
 <img align="center" src="https://media.giphy.com/media/1xTOR1fo3NSXzt8TZh/giphy.gif?cid=ecf05e47lem478qoow5l3ebcdl12237den4mz0vwzie25ix6&rid=giphy.gif&ct=s" height="100px" width="100px">     
-<div>
+</div>
 
 
 
