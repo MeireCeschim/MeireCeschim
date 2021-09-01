@@ -42,14 +42,12 @@ print (new_message) # Future full-stack devenloper !<br>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5541985011542&text=Que bom que você veio falar comigo 😊">
   <img src="https://raw.githubusercontent.com/MeireCeschim/yoga-interface1/main/assets/whatsapp.png" height="35px" width="30px">
-  </a></h3>
- </div>
- 
-<br><br>
- 
-<div align="center">
+   </a></h3>
+ </div>[visitors](https://visitor-badge.glitch.me
+/badge?page_id=https://github.com/MeireCeschim)
 <img src="https://media.giphy.com/media/1xTOR1fo3NSXzt8TZh/giphy.gif?cid=ecf05e47lem478qoow5l3ebcdl12237den4mz0vwzie25ix6&rid=giphy.gif&ct=s" height="100px" width="100px">     
 </div>
+
 
 
 
