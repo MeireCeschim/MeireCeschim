@@ -37,14 +37,16 @@ print (new_message) # Future full-stack devenloper !<br>
 <br>
  
 📫 <i>[Contacts]</i>
-  <a href="https://www.linkedin.com/in/meire-ceschim-843aba123">
+  <a href="https://www.linkedin.com/in/meire-ceschim-843aba123" target="_blank">
   <img src="https://raw.githubusercontent.com/MeireCeschim/yoga-interface1/main/assets/linkedin.png" height="35px" width="30px">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5541985011542&text=Que bom que você veio falar comigo 😊">
+  <a href="https://api.whatsapp.com/send?phone=5541985011542&text=Que bom que você veio falar comigo 😊" target="_blank">
   <img src="https://raw.githubusercontent.com/MeireCeschim/yoga-interface1/main/assets/whatsapp.png" height="35px" width="30px">
    </a></h3>
    
-   <div>
+   #
+   
+   <div align="center">
   <a href="https://github.com/Mafehudinik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeireCeschim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeireCeschim&layout=compact&langs_count=7&theme=dark"/>
