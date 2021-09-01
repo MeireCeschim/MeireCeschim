@@ -37,11 +37,11 @@ print (new_message) # Future full-stack devenloper !<br>
 <br>
  
 📫 <i>[Contacts]</i>
-  <a href="https://www.linkedin.com/in/meire-ceschim-843aba123" target="_blank">
+  <a href="https://www.linkedin.com/in/meire-ceschim-843aba123">
   <img src="https://raw.githubusercontent.com/MeireCeschim/yoga-interface1/main/assets/linkedin.png" height="35px" width="30px">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5541985011542&text=Que bom que você veio falar comigo 😊" target="_blank">
-  <img src="https://raw.githubusercontent.com/MeireCeschim/yoga-interface1/main/assets/whatsapp.png" height="35px" width="30px">
+  <a href="https://api.whatsapp.com/send?phone=5541985011542&text=Que bom que você veio falar comigo 😊">
+     <img src="https://raw.githubusercontent.com/MeireCeschim/yoga-interface1/main/assets/whatsapp.png" height="35px" width="30px">
    </a></h3>
    
    #
