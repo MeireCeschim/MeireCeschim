@@ -3,7 +3,7 @@
 <div align="middle">
 <img src="https://media.giphy.com/media/A65yjDyj97xET1DGDE/giphy.gif?cid=ecf05e474s4fsautrkx9gncynuctnmz0hbyzle7wiikcadph&rid=giphy.gif&ct=s" height="141px" width="200px">     
 
-[The story of visitor badge](https://github.com/MeireCeschim/the-story-of-visitor-badge-46mm)
+[](https://github.com/MeireCeschim/the-story-of-visitor-badge-46mm)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MeireCeschim.visitor-badge)
 
