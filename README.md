@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <h1 align="right"><i>Hey there</i></h1> 
 
 <div align="middle">
-<img src="https://media.giphy.com/media/A65yjDyj97xET1DGDE/giphy.gif?cid=ecf05e474s4fsautrkx9gncynuctnmz0hbyzle7wiikcadph&rid=giphy.gif&ct=s" height="141px" width="200px">     
+<img src="https://media0.giphy.com/media/UQZznMl7wlgXBmqibH/giphy.gif?cid=790b7611918a98e0f2e494c4fa640bc2ab3a1a2d20965708&rid=giphy.gif&ct=s" height="250px" width="400px">     
 
 [](https://github.com/MeireCeschim/the-story-of-visitor-badge-46mm)
 
